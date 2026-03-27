@@ -1,0 +1,20 @@
+
+==========模型性能指标:==========
+样本统计:  总样本数: 2442  有效预测样本数: 2442  未知预测数: 0
+预测分布:  Satire/Parody: 171 (7.0%)  False Connection: 83 (3.4%)  Misleading Content: 41 (1.7%)  False Context: 617 (25.3%)  Imposter Content: 0 (0.0%)  Manipulated Content: 2 (0.1%)  Fabricated Content: 304 (12.4%)  Harassment: 72 (2.9%)  Hate speech: 36 (1.5%)  Normal: 1116 (45.7%)  Unknown: 0 (0.0%)
+准确率指标:  包含未知预测的准确率: 0.4431  仅有效预测的准确率: 0.4431
+各类别详细指标:----------
+Satire/Parody:  精确率 (Precision): 0.9064  召回率 (Recall): 0.8757  F1分数: 0.8908
+False Connection:  精确率 (Precision): 0.2048  召回率 (Recall): 0.0914  F1分数: 0.1264
+Misleading Content:  精确率 (Precision): 0.2683  召回率 (Recall): 0.0428  F1分数: 0.0738
+False Context:  精确率 (Precision): 0.1151  召回率 (Recall): 0.3480  F1分数: 0.1730
+Imposter Content:  精确率 (Precision): 0.0000  召回率 (Recall): 0.0000  F1分数: 0.0000
+Manipulated Content:  精确率 (Precision): 0.0000  召回率 (Recall): 0.0000  F1分数: 0.0000
+Fabricated Content:  精确率 (Precision): 0.3224  召回率 (Recall): 0.5537  F1分数: 0.4075
+Harassment:  精确率 (Precision): 0.8056  召回率 (Recall): 0.6374  F1分数: 0.7117
+Hate speech:  精确率 (Precision): 0.7778  召回率 (Recall): 0.3146  F1分数: 0.4480
+Normal:  精确率 (Precision): 0.5771  召回率 (Recall): 0.7085  F1分数: 0.6360
+==========综合指标:  宏平均精确率: 0.3977  宏平均召回率: 0.3572  宏平均F1分数: 0.3467
+  微平均精确率: 0.4431  微平均召回率: 0.4431  微平均F1分数: 0.4431
+  加权平均精确率: 0.4157  加权平均召回率: 0.4431  加权平均F1分数: 0.4056
+
